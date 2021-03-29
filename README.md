@@ -3,7 +3,7 @@
 This mod combine the mods The Other Roles and Better Polus map
 
 
-# **Source :**  
+# Source  
 https://github.com/Brybry16/BetterPolus  
 https://github.com/Eisbison/TheOtherRoles  
 
