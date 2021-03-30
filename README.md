@@ -1,6 +1,6 @@
 # TheOtherRoles-BetterPolus
 
-This mod combine the mods The Other Roles and Better Polus map
+This mod for Among US combine the mods The Other Roles and Better Polus map
 
 
 # Source  
